@@ -31,3 +31,9 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://portfolio-yidate.vercel.app/api/readme?section=main&theme=dark">
   <img src="https://portfolio-yidate.vercel.app/api/readme?section=main&theme=light" alt="Whats up! I'm Yuri, creative developer based in Brazil" width="100%" height="250" align="left">
 </picture>
+<a target="_blank" href="https://github.com/terkelg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://portfolio-yidate.vercel.app/api/readme?section=credits&theme=dark">
+  <img src="https://portfolio-yidate.vercel.app/api/readme?section=credits&theme=light" alt="100% inspired by: @terkelg" width="100%" height="250" align="left">
+</picture>
+</a>
