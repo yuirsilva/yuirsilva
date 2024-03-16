@@ -2,7 +2,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-api-navy.vercel.app/readme.json?section=top&theme=dark">
   <img src="https://readme-api-navy.vercel.app/readme.json?section=top&theme=light" width="100%" height="20" align="left">
 </picture>
-<a target="_blank" href="https://portfolio-yidate.vercel.app">
+<a target="_blank" href="https://yvri.vercel.app">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-api-navy.vercel.app/readme.json?section=link-website&theme=dark&i=1" label="Visit">
     <img src="https://readme-api-navy.vercel.app/readme.json?section=link-website&theme=light&i=1" alt="Visit my Portfolio" width="100" height="20" align="left">
