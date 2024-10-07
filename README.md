@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-api-navy.vercel.app/readme.json?section=top&theme=dark">
-  <img src="https://readme-api-navy.vercel.app/readme.json?section=top&theme=light" width="100%" height="16" align="left">
+  <img src="https://readme-api-navy.vercel.app/readme.json?section=top&theme=light" width="100%" height="18" align="left">
 </picture>
 <a target="_blank" href="https://yvri.vercel.app">
   <picture>
