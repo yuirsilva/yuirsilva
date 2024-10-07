@@ -29,5 +29,5 @@
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-api-navy.vercel.app/readme.json?section=main&theme=dark">
-  <img src="https://readme-api-navy.vercel.app/readme.json?section=main&theme=light" alt="Whats up! I'm Yuri, creative developer based in Brazil" width="100%" height="250" align="left">
+  <img src="https://readme-api-navy.vercel.app/readme.json?section=main&theme=light" alt="Yuri is a creative developer based in São Paulo." width="100%" height="48" align="left">
 </picture>
